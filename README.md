@@ -13,7 +13,7 @@
 
 <p>Discover the portfolio website in action by exploring the live demo. Simply click on the provided link to access the interactive version of the website and experience its captivating design, seamless user interface, and impressive features firsthand.</p>
 
-**Live Preview** ➡️ [Demo](https://kranthi-kumar.netlify.app/)
+**Live Preview** ➡️ <a href="https://kranthi-kumar.netlify.app/" target="_blank" rel="noopener noreferrer">Demo</a>
 
 <br>
 <br>
