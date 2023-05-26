@@ -24,7 +24,7 @@
 
 <br>
 
-<img src="https://raw.githubusercontent.com/kranthikumarkaranam/assets/main/Portfolio.png?token=GHSAT0AAAAAACBJ6QG5VHU35NPZR4IVELO2ZDQGKIA" width="1920" height="6290/">
+<img src="https://raw.githubusercontent.com/kranthikumarkaranam/assets/main/Portfolio.png?token=GHSAT0AAAAAACBJ6QG5VHU35NPZR4IVELO2ZDQGKIA" width="auto" height="auto">
   
 <br>
 <br>
