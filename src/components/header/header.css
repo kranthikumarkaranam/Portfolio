@@ -67,15 +67,15 @@ header {
 @media screen and (max-width: 1024px) {
     header {
         /* height: 68vh; */
-        height: 55vh;
+        /* height: 49vh; */
     }
 }
 
 /* ======== MEDIA QUERIES (PHONES) ========= */
 @media screen and (max-width: 600px) {
-    /* header {
-        height: 100vh;
-    } */
+    header {
+        /* height: 50vh; */
+    }
 
     .header__socials, .scroll__down {
         display: none;

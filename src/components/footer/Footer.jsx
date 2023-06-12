@@ -22,7 +22,7 @@ function Footer() {
       <div className="footer__socials">
         <a href="https://www.facebook.com/kranthikumarkaranam/" target="_blank" rel="noopener noreferrer"><FaFacebookF /></a>
         <a href="https://www.instagram.com/___kranthi_sm__/" target="_blank" rel="noopener noreferrer"><BsInstagram /></a>
-        <a href="https://twitter.com/kRanTHi_sM" target="_blank" rel="noopener noreferrer"><IoLogoTwitter /></a>
+        <a href="https://twitter.com/_kranthi_sm__" target="_blank" rel="noopener noreferrer"><IoLogoTwitter /></a>
       </div>
 
       <div className="footer__copyright">

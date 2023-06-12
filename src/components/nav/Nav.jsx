@@ -4,8 +4,9 @@ import { AiOutlineHome } from "react-icons/ai"
 import { BiUserCircle } from "react-icons/bi"
 import { BiBook } from "react-icons/bi"
 import { RiServiceLine } from "react-icons/ri"
-import { BiMessageSquareDetail } from "react-icons/bi"
-import { useState, useEffect } from 'react';
+import { BsImages } from "react-icons/bs"
+import { TbMessage } from "react-icons/tb"
+import { useState, useEffect } from 'react'
 
 
 // defining a functional component Nav
@@ -53,7 +54,8 @@ function Nav() {
             <a href="#about" className={activeNav === "about" ? "active" : ""}><BiUserCircle /></a>
             <a href="#experience" className={activeNav === "experience" ? "active" : ""}><BiBook /></a>
             <a href="#services" className={activeNav === "services" ? "active" : ""}><RiServiceLine /></a>
-            <a href="#contact" className={activeNav === "contact" ? "active" : ""}><BiMessageSquareDetail /></a>
+            <a href="#projects" className={activeNav === "projects" ? "active" : ""}><BsImages /></a>
+            <a href="#contact" className={activeNav === "contact" ? "active" : ""}><TbMessage /></a>
         </nav>
     )
 }

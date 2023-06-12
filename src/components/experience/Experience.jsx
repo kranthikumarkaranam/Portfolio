@@ -17,8 +17,32 @@ function Experience() {
             <article className="experience__details">
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
+              <h4>Figma</h4>
+              <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+
+            <article className="experience__details">
+            <BsPatchCheckFill className='experience__details-icon'/>
+            <div>
               <h4>UI/UX</h4>
               <small className='text-light'>Intermediate</small>
+            </div>
+            </article>
+
+            <article className="experience__details">
+            <BsPatchCheckFill className='experience__details-icon'/>
+            <div>
+              <h4>Responsive<br></br>Web Design</h4>
+              <small className='text-light'>Intermediate</small>
+            </div>
+            </article>
+
+            <article className="experience__details">
+            <BsPatchCheckFill className='experience__details-icon'/>
+            <div>
+              <h4>Internet& Web<br></br>Development<br></br>Fundamentals</h4>
+              <small className='text-light'>Experienced</small>
             </div>
             </article>
 
@@ -73,6 +97,14 @@ function Experience() {
             <article className="experience__details">
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
+              <h4>ReduxJS</h4>
+              <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+
+            <article className="experience__details">
+            <BsPatchCheckFill className='experience__details-icon'/>
+            <div>
               <h4>NextJS</h4>
               <small className='text-light'>Experienced</small>
             </div>
@@ -113,6 +145,14 @@ function Experience() {
             <BsPatchCheckFill className='experience__details-icon'/>
             <div>
               <h4>REST API</h4>
+              <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+
+            <article className="experience__details">
+            <BsPatchCheckFill className='experience__details-icon'/>
+            <div>
+              <h4>RESTful API</h4>
               <small className='text-light'>Experienced</small>
             </div>
             </article>
@@ -178,6 +218,14 @@ function Experience() {
             <div>
               <h4>PostgreSQL</h4>
               <small className='text-light'>Basic</small>
+            </div>
+            </article>
+
+            <article className="experience__details">
+            <BsPatchCheckFill className='experience__details-icon'/>
+            <div>
+              <h4>CI/CD</h4>
+              <small className='text-light'>Intermediate</small>
             </div>
             </article>
 
